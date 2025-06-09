@@ -1,16 +1,37 @@
-## Hi there 👋
+### 👋 Hi, I’m @rishwarii (Rishwari Ranjan)
 
-<!--
-**rishwarii/rishwarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Software Engineer and Computer Science grad student at Purdue University (GPA: 4.0), passionate about building intuitive, scalable, and delightful software experiences. With 1.5+ years of industry experience, I specialize in front-end development, cloud-based applications, and crafting clean, accessible UIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in:
+  - Frontend Engineering (React, TypeScript, Material UI)
+  - Full Stack Development & Cloud Architecture
+  - Building developer tools and products with great UX
+
+- 🌱 I’m currently learning:
+  - Advanced cloud architecture with AWS
+  - Backend frameworks like FastAPI
+
+- 💞️ I’m looking to collaborate on:
+  - Open-source React projects
+  - Scalable web platforms for productivity or education
+
+- 📫 Reach me at:
+  - 📧 rishwari.connect@gmail.com  
+  - 🌐 [rishwarii.github.io](https://rishwarii.github.io)
+  - 🔗 [LinkedIn](https://linkedin.com/in/rishwari)
+  - 💻 [GitHub](https://github.com/rishwariii)
+
+- 😄 Pronouns: she/her
+
+---
+
+📌 **Certifications**:  
+- AWS Certified Cloud Practitioner (2024)  
+- Microsoft Azure Fundamentals (AZ-900)
+
+🧠 **Tech I Enjoy Working With**:
+React · TypeScript · Node.js · Firebase · Supabase · AWS · Redux Toolkit · Material UI · Cypress · GitHub Copilot
+
+🚀 Let’s build something awesome together!
